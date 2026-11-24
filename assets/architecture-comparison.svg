@@ -1,0 +1,29 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="360" rx="16" fill="#0B1120" stroke="#1E293B"/>
+  <text x="48" y="52" fill="#F8FAFC" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="700">
+    Aureum Voice AI vs. Legacy STT + LLM + TTS Platforms
+  </text>
+  <text x="48" y="78" fill="#94A3B8" font-family="Inter, system-ui, sans-serif" font-size="14">
+    End-to-end native audio reasoning over WebRTC and SIP with zero intermediate text hops.
+  </text>
+
+  <text x="48" y="136" fill="#CBD5E1" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600">
+    Legacy Cascaded Stack (STT -> LLM -> TTS)
+  </text>
+  <rect x="48" y="152" width="200" height="44" rx="8" fill="#334155"/>
+  <text x="148" y="179" text-anchor="middle" fill="#F8FAFC" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600">STT Transcription</text>
+  <rect x="260" y="152" width="240" height="44" rx="8" fill="#475569"/>
+  <text x="380" y="179" text-anchor="middle" fill="#F8FAFC" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600">LLM Text Generation</text>
+  <rect x="512" y="152" width="200" height="44" rx="8" fill="#64748B"/>
+  <text x="612" y="179" text-anchor="middle" fill="#F8FAFC" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="600">TTS Synthesis</text>
+  <text x="735" y="179" fill="#F87171" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700">1.4s - 2.2s Turn Lag</text>
+
+  <text x="48" y="242" fill="#38BDF8" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="600">
+    Aureum Voice AI (LiveKit SIP/WebRTC + Gemini Live Native Audio)
+  </text>
+  <rect x="48" y="258" width="260" height="44" rx="8" fill="#0284C7"/>
+  <text x="178" y="285" text-anchor="middle" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700">WhatsApp / SIP / WebRTC</text>
+  <rect x="324" y="258" width="270" height="44" rx="8" fill="#059669"/>
+  <text x="459" y="285" text-anchor="middle" fill="#FFFFFF" font-family="Inter, system-ui, sans-serif" font-size="13" font-weight="700">Gemini Live Native Audio</text>
+  <text x="616" y="285" fill="#34D399" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="700">Sub-second + Native Barge-In</text>
+</svg>
